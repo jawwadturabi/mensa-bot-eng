@@ -1,0 +1,23 @@
+{
+  "name": "mensa-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "datejs": "^1.0.0-rc3",
+    "deasync": "^0.1.19",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "moment": "^2.24.0",
+    "node-emoji": "^1.10.0",
+    "request": "^2.88.0"
+  }
+}

@@ -1,0 +1,108 @@
+
+
+4/18/2021, 12:00:15 PM
+User: hi.
+Bot: -----------EVALUATION-----------  
+* Thank you * for participating in the evaluation! 
+First, I ask you to complete the steps under _Instructions_, and then to participate in a short [survey] (https://forms.gle/jD4dpVW9DsjVKr2V7). 
+
+_Instructions_ 
+
+Please ask me your own questions with the following requirements by sending them to me in writing as a message: 
+ 
+- Opening times from the main canteen TU Hardenbergstraße 
+- Address of the canteen Veggie 2.0 - the deep green canteen 
+- all dishes today in the Café TU Skyline and in the cafeteria in Marchstrasse 
+- all vegan and green marked dishes on Wednesday in the cafeteria in Marchstrasse 
+- all dishes without cereals containing gluten in the main canteen TU Hardenbergstraße 
+
+You don't have to write out the names of the dining halls completely. Try the abbreviations you know. Of course, you can test other questions beyond the above. 
+It may well be that I don't understand you yet because I don't know your wording of the question. Please try to ask your question differently. I will add the unknown wording after the evaluation. 
+If you want to see this message again while chatting, enter _Hello_. 
+
+ * Have fun trying it out * (and please also think of the following [survey] (https://forms.gle/jD4dpVW9DsjVKr2V7)) 
+------------------------------- 
+
+Hello, 
+I am * Lotti *, your canteen chatbot for the Charlottenburg campus in Berlin. 
+I was created as part of a bachelor's thesis at the [Quality & Usability Lab] (https://www.qu.tu-berlin.de/menue/qu/). 
+You can ask me questions about the meals, addresses and opening times of many dining halls on the Charlottenburg campus.If you don't know how, enter _Help_ for a more detailed explanation. 
+If you have further questions, comments and wishes, you can write me an email: chatbot.tuberlin@gmail.com 
+
+ All information without guarantee
+
+
+
+4/18/2021, 12:01:30 PM
+User: von veggie.
+Bot: Please tell me the date
+
+
+
+4/18/2021, 12:02:01 PM
+User: today.
+Bot: The * Mensa Veggie 2.0 - Die tiefgrüne Mensa * is closed on * Saturday, 17.April 2021*.
+
+
+
+
+
+4/18/2021, 12:10:40 PM
+User: hi.
+Bot: -----------EVALUATION-----------  
+* Thank you * for participating in the evaluation! 
+First, I ask you to complete the steps under _Instructions_, and then to participate in a short [survey] (https://forms.gle/jD4dpVW9DsjVKr2V7). 
+
+_Instructions_ 
+
+Please ask me your own questions with the following requirements by sending them to me in writing as a message: 
+ 
+- Opening times from the main canteen TU Hardenbergstraße 
+- Address of the canteen Veggie 2.0 - the deep green canteen 
+- all dishes today in the Café TU Skyline and in the cafeteria in Marchstrasse 
+- all vegan and green marked dishes on Wednesday in the cafeteria in Marchstrasse 
+- all dishes without cereals containing gluten in the main canteen TU Hardenbergstraße 
+
+You don't have to write out the names of the dining halls completely. Try the abbreviations you know. Of course, you can test other questions beyond the above. 
+It may well be that I don't understand you yet because I don't know your wording of the question. Please try to ask your question differently. I will add the unknown wording after the evaluation. 
+If you want to see this message again while chatting, enter _Hello_. 
+
+ * Have fun trying it out * (and please also think of the following [survey] (https://forms.gle/jD4dpVW9DsjVKr2V7)) 
+------------------------------- 
+
+Hello, 
+I am * Lotti *, your canteen chatbot for the Charlottenburg campus in Berlin. 
+I was created as part of a bachelor's thesis at the [Quality & Usability Lab] (https://www.qu.tu-berlin.de/menue/qu/). 
+You can ask me questions about the meals, addresses and opening times of many dining halls on the Charlottenburg campus.If you don't know how, enter _Help_ for a more detailed explanation. 
+If you have further questions, comments and wishes, you can write me an email: chatbot.tuberlin@gmail.com 
+
+ All information without guarantee
+
+
+
+4/18/2021, 12:10:56 PM
+User: von veggie.
+Bot: Please tell me the date
+
+
+
+4/18/2021, 12:11:14 PM
+User: today.
+Bot: The * Mensa Veggie 2.0 - Die tiefgrüne Mensa * is closed on * Saturday, 17.April 2021*.
+
+
+
+
+
+4/18/2021, 12:12:39 PM
+User: von veggie.
+Bot: Please tell me the date
+
+
+
+4/18/2021, 12:12:48 PM
+User: today.
+Bot: The * Mensa Veggie 2.0 - Die tiefgrüne Mensa * is closed on * Saturday, 17.April 2021*.
+
+
+
